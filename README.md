@@ -4,5 +4,4 @@
  * Download the folder 
  * using command prompt navigate to folder 
  * Run command 
-    * panel server dashboard.ipynb --log-level debug --show
-    
+    * panel serve dashboard.ipynb --log-level debug --show

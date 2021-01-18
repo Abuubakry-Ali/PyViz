@@ -117,5 +117,5 @@ plotly_express            0.4.0                      py_0  plotly
 #### After analysis of data, a dashboard was created for customer use. 
 ##### Sample images can be seen below:
 
-![dash](Images/estate.jpg)
-![dash](Images/top_10.jpg)
+![dash_estate](images/estate.jpg)
+![dash_image](images/top_10.jpg)
